@@ -40,3 +40,7 @@ The project must generate a `team.html` page in the `output` directory, that dis
 ### Demo
 
 Deployed Application :
+
+https://prakritirajbhandari.github.io/Team-Profile/
+
+https://github.com/PrakritiRajbhandari/Team-Profile
