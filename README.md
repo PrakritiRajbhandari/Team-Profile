@@ -33,9 +33,9 @@ The project must generate a `team.html` page in the `output` directory, that dis
 
 ### Screenshots
 
-<img src="./assets/Terminal.jpg" alt="  terminal screenshot"/>
+<img src="./assets/Terminal.JPG" alt="  terminal screenshot"/>
 
-<img src="./assets/desktop.jpg" alt="  Desktop screenshot"/>
+<img src="./assets/desktop.JPG" alt="  Desktop screenshot"/>
 
 ```
 
