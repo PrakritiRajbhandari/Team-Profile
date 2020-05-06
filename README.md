@@ -7,8 +7,8 @@ A software engineering team generator command line application
 1. [About](#about)
 1. [User Input](#user-input)
 1. [Output](#output)
+1. [Screenshots](#Screenshots)
 1. [Demo](#demo)
-1. [Getting Started](#getting-started)
 
 ## About
 
@@ -37,6 +37,6 @@ The project must generate a `team.html` page in the `output` directory, that dis
 
 <img src="./assets/desktop.JPG" alt="  Desktop screenshot"/>
 
-```
+### Demo
 
-```
+Deployed Application :
